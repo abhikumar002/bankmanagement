@@ -11,7 +11,7 @@ namespace bankmanagement
     static class Constants
     {
         //******************** Here Your local Microsoft SQL server connection string *********************************
-        public const string localconnectionstring = "Data Source=42GBHOLAP0210\\SQLEXPRESS;Initial Catalog=BANK;Persist Security Info=True;User ID=sa;Password=42Gears@123";
+        public const string localconnectionstring = "Data Source=************\\SQLEXPRESS;Initial Catalog=BANK;Persist Security Info=True;User ID=sa;Password=***********";
     }
     class Bank
     {
