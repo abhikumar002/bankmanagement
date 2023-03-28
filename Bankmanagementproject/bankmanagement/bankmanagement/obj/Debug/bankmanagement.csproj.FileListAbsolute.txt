@@ -1,0 +1,12 @@
+D:\Training material\Projects\github\bankmanagement\bankmanagement\bin\Debug\bankmanagement.exe.config
+D:\Training material\Projects\github\bankmanagement\bankmanagement\bin\Debug\bankmanagement.exe
+D:\Training material\Projects\github\bankmanagement\bankmanagement\bin\Debug\bankmanagement.pdb
+D:\Training material\Projects\github\bankmanagement\bankmanagement\obj\Debug\bankmanagement.csproj.AssemblyReference.cache
+D:\Training material\Projects\github\bankmanagement\bankmanagement\obj\Debug\bankmanagement.csproj.SuggestedBindingRedirects.cache
+D:\Training material\Projects\github\bankmanagement\bankmanagement\obj\Debug\bankmanagement.csproj.CoreCompileInputs.cache
+D:\Training material\Projects\github\bankmanagement\bankmanagement\obj\Debug\bankmanagement.exe
+D:\Training material\Projects\github\bankmanagement\bankmanagement\obj\Debug\bankmanagement.pdb
+D:\Training material\Projects\github\bankmanagement\bankmanagement\bin\Debug\bankmanagement.exe.manifest
+D:\Training material\Projects\github\bankmanagement\bankmanagement\bin\Debug\bankmanagement.application
+D:\Training material\Projects\github\bankmanagement\bankmanagement\obj\Debug\bankmanagement.exe.manifest
+D:\Training material\Projects\github\bankmanagement\bankmanagement\obj\Debug\bankmanagement.application
