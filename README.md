@@ -29,7 +29,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-#First view of Project
+# First view of Project
 ![image](https://user-images.githubusercontent.com/63952465/228297332-44384f58-874c-49cf-97c3-2255471a97b7.png)
 
 # Admin panel
