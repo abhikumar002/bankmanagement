@@ -8,8 +8,8 @@ This project is a management system for banks based on console application. It i
 - Loan Calculation
 - FD Calculation
 - Admin panel for some different feaures
-- User panel for managers of different branch or different banks to CRUD oprartions on bank accounts
-- OOPs concepts for handling large data and methods
+- User panel for managers of a different branch or different banks to CRUD operations on bank accounts
+- OOPs concepts for handling extensive data and methods
 - Save transaction history deposit amount and withdraw amount from different account holders
 
 ## Required Software
